@@ -1,0 +1,18 @@
+streamlit
+PyPDF2
+python-docx
+pdfplumber
+langchain
+langchain-google-genai
+python-dotenv
+Pillow
+faiss-cpu
+
+# streamlit
+# google-generativeai
+# python-dotenv
+# langchain
+# PyPDF2
+# chromadb
+# faiss-cpu
+# langchain_google_genai
